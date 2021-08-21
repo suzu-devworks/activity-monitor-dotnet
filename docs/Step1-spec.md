@@ -11,7 +11,6 @@ This application tracks the process of reorganizing the Windows Froms technology
 Also note that the implementation lacks technical skills and is under-considered.
 
 A similar tool is [dotnet-counters](https://docs.microsoft.com/ja-jp/dotnet/core/diagnostics/dotnet-counters).
-
 I will refer to it because it is just an arrangement of knowledge, but I will not imitate it.(Since the contents are the same, they may be similar)
 
 ## Scenarios
